@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pwa/static/css/main.29242c36.css",
+    "main.js": "/pwa/static/js/main.86facdb4.js",
+    "index.html": "/pwa/index.html",
+    "main.29242c36.css.map": "/pwa/static/css/main.29242c36.css.map",
+    "main.86facdb4.js.map": "/pwa/static/js/main.86facdb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29242c36.css",
+    "static/js/main.86facdb4.js"
+  ]
+}
